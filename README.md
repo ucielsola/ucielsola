@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi! I'm Uciel :)
 
-<!--
-**ucielsola/ucielsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking my **Github**! Here you will find all my personal projects.  
+I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or make sugestions!
 
-Here are some ideas to get you started:
+# You can find me here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Uciel Sola](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/ucielsola) [![+54 9 11 5612 2325](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "Whatsapp")](https://wa.link/tn7osw) [![Uciel Sola](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://instagram.com/ucielsola)
+
+# Some of my works
+
+#### [LOTR Character Creator](https://ucielsola.com/lotr-character-creator) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) 
+
+*   Custom Design
+*   Final project at CODERHOUSE JavaScript course
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/lotr-character-creator) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+
+
+#### [PMCOMUNICACIONES.COM.AR](https://PMCOMUNICACIONES.COM.AR) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+
+*   Custom Design
+*   SEO
+
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+#### [PARTIDOAUTONOMISTANACIONAL.COM.AR](https://PARTIDOAUTONOMISTANACIONAL.COM.AR) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+
+
+
+*   Custom Design
+*   SEO
+
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
