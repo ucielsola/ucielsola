@@ -3,6 +3,19 @@
 Thanks for checking my **Github**! Here you will find all my personal and professional projects.  
 I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or make sugestions!
 
+<details>
+  <summary>Mini Resume 🔍️</summary>
+  
+  ## Courses
+  1. JavaScript @ [CODERHOUSE](https://coderhouse.com) (Certification [>here<](https://ucielsola.com/coderhouse.jpg))
+  2. Intro. al Trabajo Informático (Certification [>here<](https://ucielsola.com/tio.jpg))
+  ## Work
+  1. 2021 - WordPress Website for [Partido Autonomista Nacional](#pmcomunicacionescomar-)
+  2. 2020 - WordPress Website for [Partido Autonomista Nacional](#partidoautonomistanacionalcomar-)
+  3. 2020 - WordPress Website for Cabañas Uciehuen (under maintenance)
+                                                                                         
+</details>
+
 # You can find me here
 
 [![Uciel Sola](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/ucielsola) [![+54 9 11 5612 2325](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "Whatsapp")](https://wa.link/tn7osw) [![Uciel Sola](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://instagram.com/ucielsola)
