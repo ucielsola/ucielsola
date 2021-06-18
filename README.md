@@ -6,10 +6,10 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 <details>
   <summary>Mini Resume 🔍️</summary>
   
-  ## Courses
+  ### Courses
   1. JavaScript at [CODERHOUSE](https://coderhouse.com) (Certification [>here<](https://ucielsola.com/coderhouse.jpg))
   2. Intro. al Trabajo Informático (Certification [>here<](https://ucielsola.com/tio.jpg))
-  ## Work Experience
+  ### Work Experience
   1. 2021 - WebDev and Community Manager at [PM Comunicaciones](https://pmcomunicaciones.com.ar)
   2. 2021 - WordPress Website for [PM Comunicaciones](#pmcomunicacionescomar-)                                                                                         
   2. 2020 - WordPress Website for [Partido Autonomista Nacional](#partidoautonomistanacionalcomar-)
