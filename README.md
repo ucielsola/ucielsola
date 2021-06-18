@@ -1,6 +1,6 @@
 # Hi! I'm Uciel :)
 
-Thanks for checking my **Github**! Here you will find all my personal projects.  
+Thanks for checking my **Github**! Here you will find all my personal and professional projects.  
 I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or make sugestions!
 
 # You can find me here
