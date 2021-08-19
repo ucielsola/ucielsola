@@ -7,12 +7,11 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
   <summary>Mini Resume 🔍️</summary>
   
   ### Courses
-  1. JavaScript at [CODERHOUSE](https://coderhouse.com) (Certification [>here<](https://ucielsola.com/coderhouse.jpg))
-  2. Intro. al Trabajo Informático (Certification [>here<](https://ucielsola.com/tio.jpg))
+  1. JavaScript at [CODERHOUSE](https://coderhouse.com) (Certificate [>here<](https://www.coderhouse.com/certificados/60e1429dec2749027ea4a76a))
+  2. Intro. al Trabajo Informático - National Ministry of Labour
   ### Work Experience
   1. 2021 - WebDev and Community Manager at [PM Comunicaciones](https://pmcomunicaciones.com.ar)
   2. 2021 - WordPress Website for [PM Comunicaciones](#pmcomunicacionescomar-)                                                                                         
-  2. 2020 - WordPress Website for [Partido Autonomista Nacional](#partidoautonomistanacionalcomar-)
   3. 2020 - WordPress Website for Cabañas Uciehuen (*under maintenance*)                                                                                         
                                                                                          
 </details>
@@ -40,11 +39,3 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-#### [PARTIDOAUTONOMISTANACIONAL.COM.AR](https://PARTIDOAUTONOMISTANACIONAL.COM.AR) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-
-
-
-*   Custom Design
-*   SEO
-
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
