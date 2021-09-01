@@ -14,7 +14,7 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 
 # Some of my works
 
-### [WatchList](https://ucielsola.com/lotr-character-creator) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+### [WatchList](https://ucielsola.com/watchlist) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
 *   My first React project. Just for fun (and practice)
 *   Scored 90 in Google LightHouse
