@@ -23,7 +23,7 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 
 _________________
 
-### [VueJS Form](https://ucielsola.github.com/vue-test-1) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+### [VueJS Form](https://ucielsola.github.io/vue-test-1) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
 *   Form validation
 *   Sibing components data sharing
