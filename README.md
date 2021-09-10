@@ -21,17 +21,16 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/watchlist) ![React](https://img.shields.io/badge/react-5ac5e3?style=for-the-badge&logo=react&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+_________________
 
 ### [VueJS Form](https://ucielsola.github.com/vue-test-1) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
 *   Form validation
 *   Sibing components data sharing
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/vue-test-1) !![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+[![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/vue-test-1) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-
-
+_________________
 
 ### [LOTR Character Creator](https://ucielsola.com/lotr-character-creator) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
@@ -40,7 +39,7 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/lotr-character-creator) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
+_________________
 
 ### [PMCOMUNICACIONES.COM.AR](https://PMCOMUNICACIONES.COM.AR) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
