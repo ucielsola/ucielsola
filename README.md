@@ -19,12 +19,18 @@ I'm always eager to _learn_ more and _improve_ my skills, so feel free to ask or
 *   My first React project. Just for fun (and practice)
 *   Scored 90 in Google LightHouse
 
+[![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/watchlist) ![React](https://img.shields.io/badge/react-5ac5e3?style=for-the-badge&logo=react&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
 ### [VueJS Form](https://ucielsola.github.com/vue-test-1) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
 *   Form validation
 *   Sibing components data sharing
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/watchlist) ![React](https://img.shields.io/badge/react-5ac5e3?style=for-the-badge&logo=react&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GITHUB-000010?style=for-the-badge&logo=github&logoColor=white "GitHub Repo")](https://github.com/ucielsola/vue-test-1) !![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+
 
 
 ### [LOTR Character Creator](https://ucielsola.com/lotr-character-creator) ![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
