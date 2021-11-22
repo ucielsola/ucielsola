@@ -3,8 +3,6 @@
 
 - 👷🏽‍♂️ I’m currently developing [Cabañas Ucihuen's website, using SvelteKit 💘](https://github.com/ucielsola/ucihuen-svkit)
 
-- 🌱 I’m currently learning **Angular & Ionic**
-
 - 👨‍💻 My portfolio [ucielsola.com](https://ucielsola.com)
 
 - 📫 My email **hello@ucielsola.com**
