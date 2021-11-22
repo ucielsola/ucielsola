@@ -1,4 +1,7 @@
-# Welcome! I'm Uciel 👾
+# Welcome! I'm Uciel 👾 // Frontend Developer
+
+
+
 
 
 
