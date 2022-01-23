@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👻, I'm Uciel</h1>
 <h3 align="center">Frontend Dev.</h3>
 
-- 👷🏽‍♂️ I’m currently developing [Cabañas Ucihuen's website, using SvelteKit 💘](https://github.com/ucielsola/ucihuen)
+- 👷🏽‍♂️ I’m currently developing [Cabañas Ucihuen's website, using SvelteKit 💘](https://github.com/ucielsola/ucihuen-svkit)
 
 - 👨‍💻 My portfolio [ucielsola.com](https://ucielsola.com)
 
