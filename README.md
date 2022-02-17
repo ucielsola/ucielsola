@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio [ucielsola.com](https://ucielsola.com)
 
-- 📫 My email **hello@ucielsola.com**
+- 📫 My email **solauciel@gmail.com+*
 
 - 👷🏽‍♂️ My latest work: [Cabañas Ucihuen's website, using SvelteKit 💘](https://github.com/ucielsola/ucihuen-svkit)
 
