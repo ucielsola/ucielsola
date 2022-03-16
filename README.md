@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👻, I'm Uciel</h1>
+<h1 align="center">Hi, I'm Uciel</h1>
 <h3 align="center">Frontend Dev.</h3>
 
 I'm currently working at [Viset](https://viset.app), developing the frontend for a new and amazing App
