@@ -7,8 +7,10 @@ I'm currently working at [Viset](https://viset.app), developing the frontend for
 
 - 📫 My email **solauciel@gmail.com**
 
-- 👷🏽‍♂️ My latest works: 
+- 👷🏽‍♂️ My latest works:  
+  - [SvelteKit Music Player](https://github.com/ucielsola/sud-player) 
   - [Cabañas Ucihuen's website](https://github.com/ucielsola/ucihuen-svkit)
+  - [Aventura!](https://github.com/ucielsola/aventura)
   - [PMComunicaciones' website](https://github.com/ucielsola/pmcomu)
 
 <h3 align="left">Connect with me:</h3>
